@@ -1,0 +1,289 @@
+habilidad,cod_pais,pais,factor,relacion_negativa,sin_relacion,relacion_positiva
+Empatía,ar,Argentina,Nivel socioeconómico de la familia,0,0,1
+Empatía,ar,Argentina,Sexo de los estudiantes (femenino),0,0,1
+Empatía,ar,Argentina,Experiencia personal de victimización escolar,0,1,0
+Empatía,ar,Argentina,Asistencia del estudiante a educación preescolar,0,1,0
+Empatía,ar,Argentina,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,ar,Argentina,Disrupción en el aula (Lectura y Matemáticas),0,1,0
+Apertura a la diversidad,ar,Argentina,Nivel socioeconómico de la familia,0,0,1
+Apertura a la diversidad,ar,Argentina,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,ar,Argentina,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,ar,Argentina,Asistencia del estudiante a educación preescolar,0,0,1
+Apertura a la diversidad,ar,Argentina,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,ar,Argentina,Disrupción en el aula (Lectura y Matemáticas),0,1,0
+Autorregulación escolar,ar,Argentina,Nivel socioeconómico de la familia,0,0,1
+Autorregulación escolar,ar,Argentina,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,ar,Argentina,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,ar,Argentina,Asistencia del estudiante a educación preescolar,0,0,1
+Autorregulación escolar,ar,Argentina,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,ar,Argentina,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,br,Brasil,Nivel socioeconómico de la familia,0,0,1
+Empatía,br,Brasil,Sexo de los estudiantes (femenino),0,0,1
+Empatía,br,Brasil,Experiencia personal de victimización escolar,0,0,1
+Empatía,br,Brasil,Asistencia del estudiante a educación preescolar,0,0,1
+Empatía,br,Brasil,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,br,Brasil,Disrupción en el aula (Lectura y Matemáticas),0,1,0
+Apertura a la diversidad,br,Brasil,Nivel socioeconómico de la familia,0,0,1
+Apertura a la diversidad,br,Brasil,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,br,Brasil,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,br,Brasil,Asistencia del estudiante a educación preescolar,0,1,0
+Apertura a la diversidad,br,Brasil,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,br,Brasil,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Autorregulación escolar,br,Brasil,Nivel socioeconómico de la familia,0,0,1
+Autorregulación escolar,br,Brasil,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,br,Brasil,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,br,Brasil,Asistencia del estudiante a educación preescolar,0,1,0
+Autorregulación escolar,br,Brasil,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,br,Brasil,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,co,Colombia,Nivel socioeconómico de la familia,0,0,1
+Empatía,co,Colombia,Sexo de los estudiantes (femenino),0,0,1
+Empatía,co,Colombia,Experiencia personal de victimización escolar,0,1,0
+Empatía,co,Colombia,Asistencia del estudiante a educación preescolar,0,1,0
+Empatía,co,Colombia,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,co,Colombia,Disrupción en el aula (Lectura y Matemáticas),1,,0
+Apertura a la diversidad,co,Colombia,Nivel socioeconómico de la familia,0,0,1
+Apertura a la diversidad,co,Colombia,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,co,Colombia,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,co,Colombia,Asistencia del estudiante a educación preescolar,0,1,0
+Apertura a la diversidad,co,Colombia,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,co,Colombia,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Autorregulación escolar,co,Colombia,Nivel socioeconómico de la familia,0,1,0
+Autorregulación escolar,co,Colombia,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,co,Colombia,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,co,Colombia,Asistencia del estudiante a educación preescolar,0,0,1
+Autorregulación escolar,co,Colombia,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,co,Colombia,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,cr,Costa Rica,Nivel socioeconómico de la familia,0,0,1
+Empatía,cr,Costa Rica,Sexo de los estudiantes (femenino),0,0,1
+Empatía,cr,Costa Rica,Experiencia personal de victimización escolar,1,0,0
+Empatía,cr,Costa Rica,Asistencia del estudiante a educación preescolar,0,0,1
+Empatía,cr,Costa Rica,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,cr,Costa Rica,Disrupción en el aula (Lectura y Matemáticas),0,1,0
+Apertura a la diversidad,cr,Costa Rica,Nivel socioeconómico de la familia,0,0,1
+Apertura a la diversidad,cr,Costa Rica,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,cr,Costa Rica,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,cr,Costa Rica,Asistencia del estudiante a educación preescolar,0,0,1
+Apertura a la diversidad,cr,Costa Rica,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,cr,Costa Rica,Disrupción en el aula (Lectura y Matemáticas),0,1,0
+Autorregulación escolar,cr,Costa Rica,Nivel socioeconómico de la familia,0,1,0
+Autorregulación escolar,cr,Costa Rica,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,cr,Costa Rica,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,cr,Costa Rica,Asistencia del estudiante a educación preescolar,0,0,1
+Autorregulación escolar,cr,Costa Rica,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,cr,Costa Rica,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,cu,Cuba,Nivel socioeconómico de la familia,0,1,0
+Empatía,cu,Cuba,Sexo de los estudiantes (femenino),0,0,1
+Empatía,cu,Cuba,Experiencia personal de victimización escolar,1,0,0
+Empatía,cu,Cuba,Asistencia del estudiante a educación preescolar,0,0,1
+Empatía,cu,Cuba,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,cu,Cuba,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Apertura a la diversidad,cu,Cuba,Nivel socioeconómico de la familia,0,1,0
+Apertura a la diversidad,cu,Cuba,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,cu,Cuba,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,cu,Cuba,Asistencia del estudiante a educación preescolar,0,0,1
+Apertura a la diversidad,cu,Cuba,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,cu,Cuba,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Autorregulación escolar,cu,Cuba,Nivel socioeconómico de la familia,0,1,0
+Autorregulación escolar,cu,Cuba,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,cu,Cuba,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,cu,Cuba,Asistencia del estudiante a educación preescolar,0,0,1
+Autorregulación escolar,cu,Cuba,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,cu,Cuba,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,ec,Ecuador,Nivel socioeconómico de la familia,0,1,0
+Empatía,ec,Ecuador,Sexo de los estudiantes (femenino),0,0,1
+Empatía,ec,Ecuador,Experiencia personal de victimización escolar,1,0,0
+Empatía,ec,Ecuador,Asistencia del estudiante a educación preescolar,0,1,0
+Empatía,ec,Ecuador,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,ec,Ecuador,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Apertura a la diversidad,ec,Ecuador,Nivel socioeconómico de la familia,0,0,1
+Apertura a la diversidad,ec,Ecuador,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,ec,Ecuador,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,ec,Ecuador,Asistencia del estudiante a educación preescolar,0,0,1
+Apertura a la diversidad,ec,Ecuador,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,ec,Ecuador,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Autorregulación escolar,ec,Ecuador,Nivel socioeconómico de la familia,0,0,1
+Autorregulación escolar,ec,Ecuador,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,ec,Ecuador,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,ec,Ecuador,Asistencia del estudiante a educación preescolar,0,0,1
+Autorregulación escolar,ec,Ecuador,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,ec,Ecuador,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,sv,El Salvador,Nivel socioeconómico de la familia,0,1,0
+Empatía,sv,El Salvador,Sexo de los estudiantes (femenino),0,0,1
+Empatía,sv,El Salvador,Experiencia personal de victimización escolar,0,1,0
+Empatía,sv,El Salvador,Asistencia del estudiante a educación preescolar,0,1,0
+Empatía,sv,El Salvador,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,sv,El Salvador,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Apertura a la diversidad,sv,El Salvador,Nivel socioeconómico de la familia,0,0,1
+Apertura a la diversidad,sv,El Salvador,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,sv,El Salvador,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,sv,El Salvador,Asistencia del estudiante a educación preescolar,0,1,0
+Apertura a la diversidad,sv,El Salvador,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,sv,El Salvador,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Autorregulación escolar,sv,El Salvador,Nivel socioeconómico de la familia,0,1,0
+Autorregulación escolar,sv,El Salvador,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,sv,El Salvador,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,sv,El Salvador,Asistencia del estudiante a educación preescolar,0,1,0
+Autorregulación escolar,sv,El Salvador,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,sv,El Salvador,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,gt,Guatemala,Nivel socioeconómico de la familia,0,0,1
+Empatía,gt,Guatemala,Sexo de los estudiantes (femenino),0,0,1
+Empatía,gt,Guatemala,Experiencia personal de victimización escolar,0,1,0
+Empatía,gt,Guatemala,Asistencia del estudiante a educación preescolar,0,1,0
+Empatía,gt,Guatemala,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,gt,Guatemala,Disrupción en el aula (Lectura y Matemáticas),0,1,0
+Apertura a la diversidad,gt,Guatemala,Nivel socioeconómico de la familia,0,0,1
+Apertura a la diversidad,gt,Guatemala,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,gt,Guatemala,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,gt,Guatemala,Asistencia del estudiante a educación preescolar,0,1,0
+Apertura a la diversidad,gt,Guatemala,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,gt,Guatemala,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Autorregulación escolar,gt,Guatemala,Nivel socioeconómico de la familia,0,0,1
+Autorregulación escolar,gt,Guatemala,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,gt,Guatemala,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,gt,Guatemala,Asistencia del estudiante a educación preescolar,0,1,0
+Autorregulación escolar,gt,Guatemala,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,gt,Guatemala,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,hn,Honduras,Nivel socioeconómico de la familia,0,1,0
+Empatía,hn,Honduras,Sexo de los estudiantes (femenino),0,0,1
+Empatía,hn,Honduras,Experiencia personal de victimización escolar,1,0,0
+Empatía,hn,Honduras,Asistencia del estudiante a educación preescolar,0,1,0
+Empatía,hn,Honduras,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,hn,Honduras,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Apertura a la diversidad,hn,Honduras,Nivel socioeconómico de la familia,0,0,1
+Apertura a la diversidad,hn,Honduras,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,hn,Honduras,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,hn,Honduras,Asistencia del estudiante a educación preescolar,0,0,1
+Apertura a la diversidad,hn,Honduras,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,hn,Honduras,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Autorregulación escolar,hn,Honduras,Nivel socioeconómico de la familia,0,1,0
+Autorregulación escolar,hn,Honduras,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,hn,Honduras,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,hn,Honduras,Asistencia del estudiante a educación preescolar,0,1,0
+Autorregulación escolar,hn,Honduras,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,hn,Honduras,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,mx,México,Nivel socioeconómico de la familia,0,0,1
+Empatía,mx,México,Sexo de los estudiantes (femenino),0,0,1
+Empatía,mx,México,Experiencia personal de victimización escolar,0,1,0
+Empatía,mx,México,Asistencia del estudiante a educación preescolar,0,1,0
+Empatía,mx,México,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,mx,México,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Apertura a la diversidad,mx,México,Nivel socioeconómico de la familia,0,0,1
+Apertura a la diversidad,mx,México,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,mx,México,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,mx,México,Asistencia del estudiante a educación preescolar,0,0,1
+Apertura a la diversidad,mx,México,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,mx,México,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Autorregulación escolar,mx,México,Nivel socioeconómico de la familia,0,0,1
+Autorregulación escolar,mx,México,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,mx,México,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,mx,México,Asistencia del estudiante a educación preescolar,0,0,1
+Autorregulación escolar,mx,México,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,mx,México,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,pa,Panamá,Nivel socioeconómico de la familia,0,0,1
+Empatía,pa,Panamá,Sexo de los estudiantes (femenino),0,0,1
+Empatía,pa,Panamá,Experiencia personal de victimización escolar,0,1,0
+Empatía,pa,Panamá,Asistencia del estudiante a educación preescolar,0,1,0
+Empatía,pa,Panamá,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,pa,Panamá,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Apertura a la diversidad,pa,Panamá,Nivel socioeconómico de la familia,0,0,1
+Apertura a la diversidad,pa,Panamá,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,pa,Panamá,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,pa,Panamá,Asistencia del estudiante a educación preescolar,0,0,1
+Apertura a la diversidad,pa,Panamá,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,pa,Panamá,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Autorregulación escolar,pa,Panamá,Nivel socioeconómico de la familia,0,0,1
+Autorregulación escolar,pa,Panamá,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,pa,Panamá,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,pa,Panamá,Asistencia del estudiante a educación preescolar,0,0,1
+Autorregulación escolar,pa,Panamá,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,pa,Panamá,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,py,Paraguay,Nivel socioeconómico de la familia,0,0,1
+Empatía,py,Paraguay,Sexo de los estudiantes (femenino),0,0,1
+Empatía,py,Paraguay,Experiencia personal de victimización escolar,0,1,0
+Empatía,py,Paraguay,Asistencia del estudiante a educación preescolar,0,1,0
+Empatía,py,Paraguay,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,py,Paraguay,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Apertura a la diversidad,py,Paraguay,Nivel socioeconómico de la familia,0,0,1
+Apertura a la diversidad,py,Paraguay,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,py,Paraguay,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,py,Paraguay,Asistencia del estudiante a educación preescolar,0,0,1
+Apertura a la diversidad,py,Paraguay,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,py,Paraguay,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Autorregulación escolar,py,Paraguay,Nivel socioeconómico de la familia,0,0,1
+Autorregulación escolar,py,Paraguay,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,py,Paraguay,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,py,Paraguay,Asistencia del estudiante a educación preescolar,0,0,1
+Autorregulación escolar,py,Paraguay,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,py,Paraguay,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,uy,Uruguay,Nivel socioeconómico de la familia,0,0,1
+Empatía,uy,Uruguay,Sexo de los estudiantes (femenino),0,0,1
+Empatía,uy,Uruguay,Experiencia personal de victimización escolar,1,0,0
+Empatía,uy,Uruguay,Asistencia del estudiante a educación preescolar,0,1,0
+Empatía,uy,Uruguay,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,uy,Uruguay,Disrupción en el aula (Lectura y Matemáticas),0,1,0
+Apertura a la diversidad,uy,Uruguay,Nivel socioeconómico de la familia,0,0,1
+Apertura a la diversidad,uy,Uruguay,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,uy,Uruguay,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,uy,Uruguay,Asistencia del estudiante a educación preescolar,0,0,1
+Apertura a la diversidad,uy,Uruguay,Interés por el bienestar de los estudiantes,0,1,0
+Apertura a la diversidad,uy,Uruguay,Disrupción en el aula (Lectura y Matemáticas),0,1,0
+Autorregulación escolar,uy,Uruguay,Nivel socioeconómico de la familia,0,0,1
+Autorregulación escolar,uy,Uruguay,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,uy,Uruguay,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,uy,Uruguay,Asistencia del estudiante a educación preescolar,0,1,0
+Autorregulación escolar,uy,Uruguay,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,uy,Uruguay,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,ni,Nicaragua,Nivel socioeconómico de la familia,0,1,0
+Empatía,ni,Nicaragua,Sexo de los estudiantes (femenino),0,0,1
+Empatía,ni,Nicaragua,Experiencia personal de victimización escolar,0,1,0
+Empatía,ni,Nicaragua,Asistencia del estudiante a educación preescolar,0,1,0
+Empatía,ni,Nicaragua,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,ni,Nicaragua,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Apertura a la diversidad,ni,Nicaragua,Nivel socioeconómico de la familia,0,1,0
+Apertura a la diversidad,ni,Nicaragua,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,ni,Nicaragua,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,ni,Nicaragua,Asistencia del estudiante a educación preescolar,0,1,0
+Apertura a la diversidad,ni,Nicaragua,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,ni,Nicaragua,Disrupción en el aula (Lectura y Matemáticas),0,1,0
+Autorregulación escolar,ni,Nicaragua,Nivel socioeconómico de la familia,0,1,0
+Autorregulación escolar,ni,Nicaragua,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,ni,Nicaragua,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,ni,Nicaragua,Asistencia del estudiante a educación preescolar,0,1,0
+Autorregulación escolar,ni,Nicaragua,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,ni,Nicaragua,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,pe,Perú,Nivel socioeconómico de la familia,0,0,1
+Empatía,pe,Perú,Sexo de los estudiantes (femenino),0,0,1
+Empatía,pe,Perú,Experiencia personal de victimización escolar,0,1,0
+Empatía,pe,Perú,Asistencia del estudiante a educación preescolar,0,0,1
+Empatía,pe,Perú,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,pe,Perú,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Apertura a la diversidad,pe,Perú,Nivel socioeconómico de la familia,0,0,1
+Apertura a la diversidad,pe,Perú,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,pe,Perú,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,pe,Perú,Asistencia del estudiante a educación preescolar,0,0,1
+Apertura a la diversidad,pe,Perú,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,pe,Perú,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Autorregulación escolar,pe,Perú,Nivel socioeconómico de la familia,0,0,1
+Autorregulación escolar,pe,Perú,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,pe,Perú,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,pe,Perú,Asistencia del estudiante a educación preescolar,0,0,1
+Autorregulación escolar,pe,Perú,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,pe,Perú,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Empatía,do,República Dominicana,Nivel socioeconómico de la familia,0,1,0
+Empatía,do,República Dominicana,Sexo de los estudiantes (femenino),0,0,1
+Empatía,do,República Dominicana,Experiencia personal de victimización escolar,1,0,0
+Empatía,do,República Dominicana,Asistencia del estudiante a educación preescolar,0,0,1
+Empatía,do,República Dominicana,Interés por el bienestar de los estudiantes,0,0,1
+Empatía,do,República Dominicana,Disrupción en el aula (Lectura y Matemáticas),1,0,0
+Apertura a la diversidad,do,República Dominicana,Nivel socioeconómico de la familia,0,0,1
+Apertura a la diversidad,do,República Dominicana,Sexo de los estudiantes (femenino),0,0,1
+Apertura a la diversidad,do,República Dominicana,Experiencia personal de victimización escolar,1,0,0
+Apertura a la diversidad,do,República Dominicana,Asistencia del estudiante a educación preescolar,0,0,1
+Apertura a la diversidad,do,República Dominicana,Interés por el bienestar de los estudiantes,0,0,1
+Apertura a la diversidad,do,República Dominicana,Disrupción en el aula (Lectura y Matemáticas),0,1,0
+Autorregulación escolar,do,República Dominicana,Nivel socioeconómico de la familia,0,0,1
+Autorregulación escolar,do,República Dominicana,Sexo de los estudiantes (femenino),0,0,1
+Autorregulación escolar,do,República Dominicana,Experiencia personal de victimización escolar,1,0,0
+Autorregulación escolar,do,República Dominicana,Asistencia del estudiante a educación preescolar,0,0,1
+Autorregulación escolar,do,República Dominicana,Interés por el bienestar de los estudiantes,0,0,1
+Autorregulación escolar,do,República Dominicana,Disrupción en el aula (Lectura y Matemáticas),1,0,0
