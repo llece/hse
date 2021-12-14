@@ -1,5 +1,5 @@
 cod_pais,pais,habilidad,percentil_10,percentil_25,intervalo_inicio,mean,intervalo_final,percentil_75,percentil_90
-re,Regional,Autorregulación,37.80,43.28,49.50,49.95,50.48,57.08,63.56
+re,Regional,Autorregulación,37.23,42.82,49.50,49.95,50.48,57.29,64.74
 ar,Argentina,Autorregulación,36.83,42.22,48.62,48.97,49.43,55.53,62.13
 br,Brasil,Autorregulación,32.65,37.60,43.08,43.31,43.80,48.78,54.37
 co,Colombia,Autorregulación,37.63,42.24,48.40,48.83,49.38,55.28,61.67
@@ -16,7 +16,7 @@ pa,Panamá,Autorregulación,37.22,42.49,48.74,49.22,49.81,55.95,63.43
 py,Paraguay,Autorregulación,38.22,43.01,49.31,49.72,50.23,56.46,63.22
 pe,Perú,Autorregulación,36.91,41.66,47.53,47.88,48.38,53.95,60.84
 uy,Uruguay,Autorregulación,38.13,43.74,49.55,49.97,50.47,56.47,62.60
-re,Regional,Empatía,37.94,43.39,49.54,49.97,50.44,56.55,63.44
+re,Regional,Empatía,37.57,43.19,49.54,49.98,50.44,56.68,64.13
 ar,Argentina,Empatía,37.95,43.88,50.06,50.46,50.88,57.37,64.13
 br,Brasil,Empatía,36.16,41.15,47.15,47.46,47.83,53.32,59.98
 co,Colombia,Empatía,37.36,42.11,48.03,48.52,49.06,54.59,61.08
@@ -33,7 +33,7 @@ pa,Panamá,Empatía,37.37,42.75,48.73,49.19,49.69,55.29,62.57
 py,Paraguay,Empatía,40.42,45.26,50.77,51.16,51.58,57.37,63.51
 pe,Perú,Empatía,36.48,41.77,47.84,48.21,48.63,54.00,61.24
 uy,Uruguay,Empatía,37.93,43.93,50.45,50.91,51.39,58.35,64.53
-re,Regional,Apertura a la diversidad,36.91,42.72,49.50,49.77,50.47,59.55,61.69
+re,Regional,Apertura a la diversidad,36.48,42.25,49.50,49.79,50.47,61.04,61.86
 ar,Argentina,Apertura a la diversidad,36.86,42.27,49.95,50.26,50.98,61.86,61.86
 br,Brasil,Apertura a la diversidad,37.67,42.25,48.96,49.15,49.78,57.25,61.86
 co,Colombia,Apertura a la diversidad,38.21,42.25,49.11,49.41,50.15,57.25,61.86
